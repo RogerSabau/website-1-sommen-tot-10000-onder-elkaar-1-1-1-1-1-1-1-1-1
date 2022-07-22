@@ -36,7 +36,7 @@ function oefening1vraag4F() {
   var oefening1vraag4Ant = 2747;
   var oefening1vraag4 = prompt("1423 + 1324 =")
 
-  if (oefening1vraag4 == oefening1vraag1Ant) {
+  if (oefening1vraag4 == oefening1vraag4Ant) {
     alert("goed")
   } else {
     alert("fout")
@@ -47,7 +47,7 @@ function oefening1vraag5F() {
   var oefening1vraag5Ant = 2659;
   var oefening1vraag5 = prompt("1234 + 1425 =")
 
-  if (oefening1vraag5 == oefening1vraag1Ant) {
+  if (oefening1vraag5 == oefening1vraag5Ant) {
     alert("goed")
   } else {
     alert("fout")
