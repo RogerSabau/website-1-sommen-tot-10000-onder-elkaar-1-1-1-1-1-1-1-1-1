@@ -1,0 +1,31 @@
+body {
+  background-color: #393D47;
+  margin: 1rem;
+}
+.title {
+  font-family: Montserrat;
+  font-weight: 900;
+  color: white;
+}
+h2, h3, h4, h5, h6 {
+  font-family: Montserrat;
+  font-weight: 400;
+  font-size: 1rem;
+  color: white;
+}
+p {
+  font-family: Sacramento;
+  font-weight: 400;
+  font-size: 2rem;
+}
+.nav-link {
+  color: grey;
+}
+#oefeningen {
+  margin-top: 3rem;
+  background-color: black;
+  padding: 1rem;
+}
+#title {
+  background-color: #393D47;
+}
